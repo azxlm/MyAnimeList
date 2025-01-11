@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Your Name.",
+        "studios": "CoMix Wave Films",
+        "type": "Movie",
+        "episode": 1,
+        "popularity": 11,
+        "score": 8.84
+    },
+    {
+        "title": "qwerty",
+        "studios": "abcde",
+        "type": "TV",
+        "episode": 12,
+        "popularity": 90,
+        "score": 5.05
+    },
+    {
+        "title": "Your Name.",
+        "studios": "CoMix Wave Films",
+        "type": "Movie",
+        "episode": 1,
+        "popularity": 11,
+        "score": 8.84
+    }
+]
